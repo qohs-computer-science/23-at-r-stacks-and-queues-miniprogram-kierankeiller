@@ -1,3 +1,6 @@
+//Kieran Keiller, Pd. 3, 12/9/24
+//This program tests the utility of stacks and queues and uses them to duplicate numbers and to sort numbers.
+
 import java.util.Scanner;
 import java.util.Stack;
 import java.util.Queue;
